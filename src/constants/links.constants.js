@@ -1,36 +1,36 @@
 export const SubscriptionLinks = [
   {
     name: 'Subscribe on LoyalFans',
-    link: 'https://www.loyalfans.com/coupleinglove',
+    link: 'https://www.loyalfans.com/meiglover',
     badge: ''
   },
   {
     name: 'Subscribe on Fansly',
-    link: 'https://fans.ly/CoupleInGlove',
+    link: 'https://fans.ly/MeiGlover',
     badge: ''
   },
   {
     name: 'Subscribe on OnlyFans',
-    link: 'https://onlyfans.com/coupleinglove/c3',
+    link: 'https://onlyfans.com/meiglover/c3',
     badge: ''
   }
 ]
 export const PPVLinks = [
   {
     name: 'Buy Our Videos on LoyalFans',
-    link: 'https://www.loyalfans.com/coupleinglove/store'
+    link: 'https://www.loyalfans.com/meiglover/store'
   },
   {
     name: 'Buy Our Videos on OnlyFans',
-    link: 'https://onlyfans.com/coupleinglovevideostore/c1'
+    link: 'https://onlyfans.com/meiglovervideostore/c1'
   },
   {
     name: 'Buy Our Videos on Clips4sale',
-    link: 'https://www.clips4sale.com/studio/269505/coupleinglove'
+    link: 'https://www.clips4sale.com/studio/269505'
   },
   {
     name: 'Buy Our Videos on ManyVids',
-    link: 'https://www.manyvids.com/Profile/1008249929/coupleinglove/Store/Videos/'
+    link: 'https://www.manyvids.com/Profile/1008249929/meiglover/Store/Videos'
   }
 ]
 export const PurchaseLinks = [
@@ -58,7 +58,7 @@ export const SocialLinks = [
   },
   {
     name: 'YouTube',
-    link: 'https://youtube.com/@CoupleInGloveASMR?si=YpFWs85VDWsw1_wF'
+    link: 'https://youtube.com/@CoupleInGlove'
   },
   {
     name: 'FetLife',
@@ -66,7 +66,7 @@ export const SocialLinks = [
   },
   {
     name: 'Reddit',
-    link: 'https://www.reddit.com/u/CoupleInGlove/'
+    link: 'https://www.reddit.com/u/CoupleInGlove'
   },
   {
     name: 'Clapper',
