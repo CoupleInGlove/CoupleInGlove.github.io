@@ -70,7 +70,7 @@ export const SocialLinks = [
   },
   {
     name: 'Clapper',
-    link: 'https://www.clapperapp.com/CoupleInGlove'
+    link: 'https://www.clapperapp.com/meiglover'
   },
   {
     name: 'Pornhub',
