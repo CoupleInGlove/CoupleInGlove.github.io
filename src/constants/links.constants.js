@@ -36,7 +36,7 @@ export const PPVLinks = [
 export const PurchaseLinks = [
   {
     name: 'Custom Content Request Form',
-    link: 'https://forms.gle/b1tckfmD1ahsRqYQ9'
+    link: 'https://forms.gle/i36zugBCUMaaqQXT6'
   },
   {
     name: "Mei's Throne",
@@ -50,15 +50,15 @@ export const SocialLinks = [
   },
   {
     name: 'TikTok',
-    link: 'https://www.tiktok.com/@coupleinglove'
+    link: 'https://www.tiktok.com/@meiglover.da'
   },
   {
     name: 'X',
-    link: 'https://twitter.com/coupleinglove'
+    link: 'https://x.com/MeiGlover_DA'
   },
   {
     name: 'YouTube',
-    link: 'https://youtube.com/@CoupleInGlove'
+    link: 'https://www.youtube.com/@MeiGlover_DA'
   },
   {
     name: 'FetLife',
@@ -73,17 +73,9 @@ export const SocialLinks = [
     link: 'https://www.clapperapp.com/CoupleInGlove'
   },
   {
-    name: 'WWGFA',
-    link: 'https://www.wwgfa.info/forum/memberlist.php?mode=viewprofile&u=13462'
-  },
-  {
-    name: 'WatchGirls',
-    link: 'https://www.watchgirlsforum.net/memberlist.php?mode=viewprofile&u=157779'
-  },
-  {
     name: 'Pornhub',
     link: 'https://www.pornhub.com/model/coupleinglove'
   }
 ]
-export const FeatureLink = 'https://www.clips4sale.com/studio/269505/31025277/sadistic-dentist-dominates-you'
-export const FixedLink = 'https://forms.gle/b1tckfmD1ahsRqYQ9'
+export const FeatureLink = 'https://onlyfans.com/meiglover/c3'
+export const FixedLink = 'https://forms.gle/i36zugBCUMaaqQXT6'
